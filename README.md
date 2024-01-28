@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Ayush Kumar Jha</h1>
 <h3 align="center">A passionate software developer, a 4th year student of GTBIT. I'm currently in Delhi. I have skills in MERN stack along with good knowledge of C++ and DSA. Also have knowledge of Next Js, typescript, MySql, C# and web sockets.</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ayush2024&label=Profile%20views&color=0e75b6&style=flat" alt="ayush2024" /> </p>
+
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ayush2024" alt="ayush2024" /></a> </p>
 
 - 🔭 I’m currently working on **Price Tracker**
@@ -15,7 +17,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/ayushkumarjha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ayushkumarjha" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/ayush-kumar-jha-7a0943205" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ayush-kumar-jha-7a0943205" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
