@@ -14,6 +14,7 @@
 - 💬 Ask me about **React, Node, Express, MongoDb, Javascript**
 
 - 📫 How to reach me **ayushkumarjha666@gmail.com**
+- How to reach me **https://ayush2024.github.io/ayushportfolio/**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
